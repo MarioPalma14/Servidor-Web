@@ -20,6 +20,10 @@ public class RegulaFalsi {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
+        JOptionPane.showMessageDialog(null, "Práctica04");
+        
+        
         DecimalFormat format = new DecimalFormat("#.00000");
         ArrayList<Double> error = new ArrayList<>();
         
